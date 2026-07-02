@@ -1,4 +1,4 @@
-# XChaCha20\-Poly1305 安全文件加密工具 \- README
+# 安全文件加密工具 \- README
 
 ## 一、项目简介
 
